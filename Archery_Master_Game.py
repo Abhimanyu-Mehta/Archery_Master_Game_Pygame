@@ -63,7 +63,7 @@ def cheak_collision(targetX, targetY, arrowX, arrowY):
 
 score = 0
 score_font = pygame.font.Font('freesansbold.ttf', 32)
-textX = 11
+textX = 10
 textY = 10
 
 
